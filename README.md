@@ -5,6 +5,10 @@
 ## Quick Start
 
 ``` bash
+# git clone: https://github.com/AdemHuduti/vueapp.git
+
+# cd vueapp
+
 # install dependencies
 npm install
 
