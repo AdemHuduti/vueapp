@@ -1,8 +1,9 @@
-# vue-cli
+# Simple vuejs application
+
+## Quick Start
 
 > A Vue.js project
 
-## Build Setup
 
 ``` bash
 # install dependencies
