@@ -1,9 +1,8 @@
 # Simple vuejs application
 
-## Quick Start
-
 > A Vue.js project
 
+## Quick Start
 
 ``` bash
 # install dependencies
