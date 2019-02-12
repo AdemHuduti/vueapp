@@ -1,7 +1,5 @@
 # Simple vuejs application
 
-> A Vue.js project
-
 ## Quick Start
 
 ``` bash
